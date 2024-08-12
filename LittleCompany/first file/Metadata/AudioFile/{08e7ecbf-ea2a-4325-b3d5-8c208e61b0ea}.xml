@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{08e7ecbf-ea2a-4325-b3d5-8c208e61b0ea}">
+		<property name="assetPath">
+			<value>188542__deleted_user_3330286__breathjump01thm_adventure.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.28734693877551021</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d99b18f6-3b4e-4a4a-9e49-c18d6732fe02}</destination>
+		</relationship>
+	</object>
+</objects>

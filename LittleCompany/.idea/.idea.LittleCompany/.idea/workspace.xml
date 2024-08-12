@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03f8f78f-300e-4897-bb94-4341cac79ff8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LittleCompany/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LittleCompany/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LittleCompany/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LittleCompany/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/Scene_Kim_Player_Controller.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/Scene_Kim_Player_Controller.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Code/_Scripts/FMODPlugins/FirstPlayerController/FMODFootstepsPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Code/_Scripts/FMODPlugins/FirstPlayerController/FMODFootstepsPlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/FBX/Character/Character.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/FBX/Character/Character.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/FirstPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/FirstPlayerController.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/_Scripts/TestOnTakeDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/FMODPlugins/FirstPlayerController/FMODFootstepsPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/Guide/Resources/Globalnstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/Zoom/ZoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/StrangeObjects/Artifact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/Guide/ZenjectGuidePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/_Scripts/UI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/PickUp.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/IInteractable.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/_Scripts/TestOnTakeDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/Debug/_Scripts/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/PickingUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/Grabing.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/CameraPlane.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/DragRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/DragRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/StrangeObjects/StrangeObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/Door/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/StrangeObjects/IStrangeObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Artifact.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/PickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/TestInteractable.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/TestPickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/GameplaySceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/Guide/ZenjectGuidePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/Guide/Resources/Globalnstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Zenject/Guide/ZenjectGuideGameplaySceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/IGrabing.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/TestGrabing.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/CameraPlane.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/DragRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/LegacyGrabingController/DragRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Ineractable/InteractController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/PickUp/PickUpController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Grabing/GrabingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptsOlga/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptsOlga/FMODEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/StrangeObjects/Artifact.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FMODPlugins/FMODEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FMODPlugins/FirstPlayerController/FMODFootstepsPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/FPSController/FirstPlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Code/_Scripts/Zoom/ZoomController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bUrZO4iM21xECdQNaJeXK5io1U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f8f78f-300e-4897-bb94-4341cac79ff8" name="Default Changelist" comment="" />
+      <created>1706280557537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706280557537</updated>
+      <workItem from="1706280560436" duration="3227000" />
+      <workItem from="1706367925372" duration="8637000" />
+      <workItem from="1706453704196" duration="5169000" />
+      <workItem from="1706536032981" duration="5082000" />
+      <workItem from="1706790138337" duration="9963000" />
+      <workItem from="1707157643385" duration="2209000" />
+      <workItem from="1707405490999" duration="11253000" />
+      <workItem from="1707606401461" duration="224000" />
+      <workItem from="1707607045774" duration="5669000" />
+      <workItem from="1707654369833" duration="4603000" />
+      <workItem from="1707766847198" duration="3526000" />
+      <workItem from="1708254737489" duration="10582000" />
+      <workItem from="1708335821157" duration="6592000" />
+      <workItem from="1708628313722" duration="2257000" />
+      <workItem from="1708712142719" duration="3987000" />
+      <workItem from="1708719543836" duration="21000" />
+      <workItem from="1708860960308" duration="12785000" />
+      <workItem from="1708975905605" duration="989000" />
+      <workItem from="1709147506793" duration="5833000" />
+      <workItem from="1709231975056" duration="6630000" />
+      <workItem from="1709302616631" duration="4638000" />
+      <workItem from="1709415214630" duration="3071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom" timestamp="1707849451805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451805" />
+    <state width="1877" height="371" key="GridCell.Tab.0.center" timestamp="1707849451805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451805" />
+    <state width="1877" height="371" key="GridCell.Tab.0.left" timestamp="1707849451805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451805" />
+    <state width="1877" height="371" key="GridCell.Tab.0.right" timestamp="1707849451805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451805" />
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.1.center" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.1.left" timestamp="1707849451805">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451805" />
+    <state width="1877" height="371" key="GridCell.Tab.1.right" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.2.bottom" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.2.center" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.2.left" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.2.right" timestamp="1707849451806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451806" />
+    <state width="1877" height="371" key="GridCell.Tab.3.bottom" timestamp="1707849451807">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.3.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451807" />
+    <state width="1877" height="371" key="GridCell.Tab.3.center" timestamp="1707849451807">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.3.center/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451807" />
+    <state width="1877" height="371" key="GridCell.Tab.3.left" timestamp="1707849451807">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.3.left/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451807" />
+    <state width="1877" height="371" key="GridCell.Tab.3.right" timestamp="1707849451807">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="371" key="GridCell.Tab.3.right/0.0.1920.1032@0.0.1920.1032" timestamp="1707849451807" />
+    <state x="794" y="232" key="RiderGenerateDialog" timestamp="1708266396318">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="794" y="232" key="RiderGenerateDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1708266396318" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1707418862586">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1707418862586" />
+    <state x="92" y="92" width="1736" height="848" key="VCS.FileHistoryDialog" timestamp="1707413391634">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="92" y="92" width="1736" height="848" key="VCS.FileHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1707413391634" />
+  </component>
+</project>

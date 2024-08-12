@@ -1,0 +1,12 @@
+{798a4ce5-bfb3-4b80-a0aa-02d7ff7db4a7} bank:/AudioBank
+{e6b464b7-d91c-4a50-abbb-f3dd63b94934} bank:/Master
+{7ea94463-a867-0612-2df2-7923924a4fac} bank:/Master.strings
+{25e92e08-9ae3-4d4a-ba32-46052564be98} bus:/
+{2920eded-acf6-4c60-9607-5025fa8ad346} bus:/Reverb
+{d9492b95-3d11-4d70-bf0e-4fd9986148ce} event:/GrassFootStepsEvent
+{2a691fac-ed02-473d-ba6d-365090693dcb} event:/GrassHitEvent
+{e100d33f-349d-4c0a-9bb0-32c70d868132} event:/JumpEvent
+{728fc3ab-cd8c-4ebe-b95f-241ed43c3acf} event:/MetalFootStepsEvent
+{9fd13edf-8ee7-4767-8d50-5e0d77d7b114} event:/MetalHitEvent
+{0c1ea604-f2a0-4c39-8e8a-d488d042f8c4} event:/WoodFootStepsEvent
+{105dbea5-f796-43e1-afd2-9e6f859486c5} event:/WoodHitEvent

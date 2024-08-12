@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:LittleCompany/Assets/AddressableAssetsData/Windows.meta
+guid: 6fd64d8a8fba2bc4f87c40532504bf51
+folderAsset: yes
+========
+guid: a7e866ce49bf582479f3675646324389
+>>>>>>>> develop:LittleCompany/Assets/Plugins/FMOD/platforms/mac/lib/fmodstudio.bundle/Contents/_CodeSignature/CodeResources.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
